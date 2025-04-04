@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Registros da Mesa Aberta
 ---
 
